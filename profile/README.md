@@ -1,15 +1,15 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/Luzilab" alt="Logo de Luzilab (luzilab.live)" width="200px">
-</div>
+  <h1>Luzilab</h1>
+  
+  Un :smirk_cat: (démoniaque) Sys Admin qui Dev le week-end.
+  
+  [![](https://img.shields.io/badge/Site%20Web-luzilab.live-FF7139?style=for-the-badge&logo=Firefox%20Browser)](https://www.luzilab.live)
+  [![](https://img.shields.io/badge/Twitter-%40luzilab__live-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/luzilab_live)
+  [![](https://img.shields.io/badge/Instagram-%40luzilab__live-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/luzilab_live/)
+  [![](https://img.shields.io/badge/Telegram-%40Luzilab-26A5E4?style=for-the-badge&logo=telegram)](https://telegram.me/Luzilab)
 
-# Luzilab ([luzilab.live](https://www.luzilab.live))
-
-<div align="center">
-
-[![](https://img.shields.io/badge/Twitter-%40luzilab__live-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/luzilab_live)
-[![](https://img.shields.io/badge/Instagram-%40luzilab__live-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/luzilab_live/)
-[![](https://img.shields.io/badge/Telegram-%40Luzilab-26A5E4?style=for-the-badge&logo=telegram)](https://telegram.me/Luzilab)
-
+  
 </div>
 
 > **Note**
